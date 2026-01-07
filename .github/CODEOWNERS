@@ -1,0 +1,8 @@
+# default owner
+* @surjayqualwebs-ssq @prashant-qualwebs
+
+# Frontend files
+/src/ @surjay-soni
+*.html @surjay-soni
+style.css @surjay-soni
+script.js @surjay-soni
